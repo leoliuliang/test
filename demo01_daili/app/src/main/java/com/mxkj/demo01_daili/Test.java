@@ -5,6 +5,8 @@ public class Test {
         ComposingProxy.init(FunModel02.getInstance());
 
         tt();
+
+        System.out.println("测试git分支");
     }
 
     private static void tt() {
