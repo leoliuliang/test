@@ -8,6 +8,10 @@ public class Test {
 
         System.out.println("测试git分支");
         System.out.println("wode分支");
+        System.out.println("wode分支");
+        System.out.println("wode分支");
+        System.out.println("wode分支");
+        System.out.println("wode分支");
     }
 
     private static void tt() {
