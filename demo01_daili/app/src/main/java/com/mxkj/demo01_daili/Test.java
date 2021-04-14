@@ -7,6 +7,7 @@ public class Test {
         tt();
 
         System.out.println("测试git分支");
+        System.out.println("我是login_fun分支");
     }
 
     private static void tt() {
